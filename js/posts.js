@@ -1,19 +1,24 @@
 var data = [
-    "https://age-calculatorbytinny.netlify.app/",
-    "https://instagram-profile.netlify.app/",
-    "https://to-do-list-by-tinny.netlify.app/",
-    "https://rps-by-tinny.netlify.app/",
-    "https://glassmorphism-clock-by-tinny.netlify.app/",
-    "https://among-us-speed-art-by-tinny.netlify.app/",
-    "https://geolacationweatherappbytinny.netlify.app/",
-    "https://digital-clock-by-tinny.netlify.app/",
+    "https://tinny-rajput.github.io/Age-calculator/",
+    "https://tinny-rajput.github.io/Profile-card/",
+    "https://tinny-rajput.github.io/To-Do-List/",
+    "https://tinny-rajput.github.io/RPS/",
+    "https://tinny-rajput.github.io/Glassmorphism-Clock/",
+    "https://tinny-rajput.github.io/Among-us-speed-art/",
+    "https://tinny-rajput.github.io/Build-a-Geolocation-Weather-App/",
+    "https://tinny-rajput.github.io/Digital-Clock/",
+    "https://tinny-rajput.github.io/neonlove.github.io/",
+    "https://tinny-rajput.github.io/CodePen-Home-Accessible-Image-Compare-github.io/",
+    "https://photocarousal.netlify.app/"
 
 ]
+
+
 
 console.log(data);
 const container = document.querySelector("#container");
 
 data.forEach((r) => {
 
-    container.innerHTML += `<iframe width="500" src="${r}" width="300" height="500" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    container.innerHTML += `<iframe width="600" src="${r}" width="200" height=450" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 });
