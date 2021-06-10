@@ -9,7 +9,9 @@ var data = [
     "https://tinny-rajput.github.io/Digital-Clock/",
     "https://tinny-rajput.github.io/neonlove.github.io/",
     "https://tinny-rajput.github.io/CodePen-Home-Accessible-Image-Compare-github.io/",
-    "https://photocarousal.netlify.app/"
+    "https://photocarousal.netlify.app/",
+    "https://tinny-rajput.github.io/Bezozs-earing-calculator/",
+    "https://tinny-rajput.github.io/Credit-Card-Form---VueJs/"
 
 ]
 
